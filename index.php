@@ -36,7 +36,7 @@
     <section class="page-section bg-primary text-white mb-0" id="about">
         <div class="container">
             <!-- About Section Heading-->
-            <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+            <h2 class="page-section-heading text-center text-uppercase text-white">Tentang FMIPA</h2>
             <!-- Icon Divider-->
             <div class="divider-custom divider-light">
                 <div class="divider-custom-line"></div>
@@ -46,13 +46,20 @@
             <!-- About Section Content-->
             <div class="row">
                 <div class="col-lg-4 ml-auto">
-                    <p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download
-                        includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS
-                        stylesheets for easy customization.</p>
+                    <p class="lead"><p style="text-align: justify;">Pendirian Fakultas Matematika dan Ilmu Pengetahuan Alam ( FMIPA) mulai dirintis sejak tahun 1959 melalui berbagai pembahasan dalam sidang pimpinan USU yang ketika itu disebut Rapat Presidium dan Asesor dengan Nama Fakultas Ilmu Pasti dan Ilmu Alam (FIPIA). Rencana pendirian FIPIA USU pernah terhenti karena adanya pergolakan di USU, namun akhirnya mendapat persetujuan dari Menteri dengan Surat Keputusan Nomor 9638/Sekret/BUP/1965. Peresmian berdirinya FIPIA USU ditandai dengan dibukanya tiga jurusan yaitu : Jurusan Matematika, Fisika dan Kimia. Pada tahun 1969, FIPIA USU membuka Jurusan Farmasi pada tahun 1969 dan pada tahun 1981 membuka Program Diploma-3 Pendidikan Ahli Kimia Analis (PAKA) melalui Surat Keputusan Rektor USU Nomor : 3491/PT05/SK/C/1981. Pada tahun 1974 FIPIA USU berubah nama menjadi Fakultas Ilmu Pasti dan Ilmu Pengetahuan Alam USU, namun beberapa tahun kemudian yaitu pada tahun 1982 kembali merubah nama dengan Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA) USU. Pada tahun 1985 FMIPA USU dipercayakan Pemerintah Republik Indonesia untuk menyelenggarakan Program Diploma-3 Kependidikan meliputi Program Studi : Matematika, Fisika, Kimia dan Biologi. Program ini dimaksudkan untuk pengadaan guru-guru dalam bidang eksakta akan ditempatkan di daerah dan seluruh mahasiswanya memperoleh beasiswa. Peringatan Dies Natalis FMIPA diperingati setiap tahunnya pada tanggal 25 Agustus yaitu pada saat pelantikan pertama sekali pimpinan FIPIA. Jurusan Farmasi berubah status menjadi Fakultas Farmasi berdasarkan SK Rektor Nomor 1050/J05/SK/KP/2006 tanggal 8 Agustus 2006.</p></p>
                 </div>
                 <div class="col-lg-4 mr-auto">
-                    <p class="lead">You can create your own custom avatar for the masthead, change the icon in the
-                        dividers, and add your email address to the contact form to make it fully functional!</p>
+                    <p class="lead">
+                        <p style="text-align: justify;"><strong>Visi</strong>&nbsp;:</p>
+                            <p style="text-align: justify;">Pada tahun 2020 Fakultas MIPA USU akan menjadi fakultas sains yang terkemuka di Asia melalui pengembangan sumber daya manusia yang berorientasi pada Ilmu, teknologi dan industri serta memiliki sikap dan perilaku professional.</p>
+                        <p style="text-align: justify;"><strong>Misi</strong>&nbsp;:</p>
+                            <ul>
+                                <li style="text-align: justify;">Mempersiapkan sumber daya manusia bermanfaat berkualitas sarjana sains melalui penyelenggaraan pendidikan, penelitian dan pengabdian pada masyarakat.</li>
+                                <li style="text-align: justify;">Mempersiapkan sarjana sains yang professional dan bertanggung jawab secara etik dan stratejik</li>
+                                <li style="text-align: justify;">Mampu melihat kesempatan untuk kepentingan masyarakat, teknologi dan industri melalui peningkatan ilmu pengetahuan.</li>
+                                <li style="text-align: justify;">Mampu mengamalkan ilmu yang dimiliki demi bangsa dan negara.</li>
+                            </ul>
+                    </p>
                 </div>
             </div>
             <!-- About Section Button-->
