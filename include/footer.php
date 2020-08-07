@@ -3,7 +3,7 @@
         <div class="row">
             <!-- Footer Location-->
             <div class="col-lg-4 mb-5 mb-lg-0">
-                <h4 class="text-uppercase mb-4">Location</h4>
+                <h4 class="text-uppercase mb-4">Lokasi</h4>
                 <p class="lead mb-0">
                     Jl. Bioteknologi No.1, Padang Bulan, Kec. Medan Baru, Kota Medan, Sumatera Utara 20155
                     <br />
@@ -11,7 +11,7 @@
             </div>
             <!-- Footer Social Icons-->
             <div class="col-lg-4 mb-5 mb-lg-0">
-                <h4 class="text-uppercase mb-4">Around the Web</h4>
+                <h4 class="text-uppercase mb-4">Kunjungi Kami</h4>
                 <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
                 <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
                 <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-instagram"></i></a>
@@ -19,7 +19,7 @@
             </div>
             <!-- Footer About Text-->
             <div class="col-lg-4">
-                <h4 class="text-uppercase mb-4">About Team</h4>
+                <h4 class="text-uppercase mb-4">Tentang Tim</h4>
                 <p class="lead mb-0">
                     Sistem Informasi MIPA merupakan web yang didesain oleh<br>
                     <a href="http://math-aps.com">Team</a>
