@@ -12,9 +12,9 @@
         <div class="row">
             <!-- Portfolio Item 1-->
             <div class="col-md-6 col-lg-6 mb-5">
-                <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal1">
+                <div class="portfolio-item mx-auto">
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                        <div class="portfolio-item-caption-content text-center text-white"> Matematika 
+                        <div class="portfolio-item-caption-content text-center text-white"> <a href='matematika.php'>Matematika</a> 
                             <!-- <i class="fas fa-plus fa-3x"></i> --> </div>
                     </div>
                     <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="" /> 
@@ -77,4 +77,5 @@
         </div>
     </div>
 -->
+
 </section>
