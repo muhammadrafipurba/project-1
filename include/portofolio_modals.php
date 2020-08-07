@@ -10,7 +10,7 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <!-- Portfolio Modal - Title-->
-                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal1Label">Log Cabin</h2>
+                            <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0" id="portfolioModal1Label">Departemen Matematika</h2>
                             <!-- Icon Divider-->
                             <div class="divider-custom">
                                 <div class="divider-custom-line"></div>
@@ -20,10 +20,17 @@
                             <!-- Portfolio Modal - Image-->
                             <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="" />
                             <!-- Portfolio Modal - Text-->
-                            <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque
-                                assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam
-                                velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-                            </p>
+                            <ul style="list-style:none;">
+                                <li>
+                                    <h2><a href="">S-1 Matematika</a></h2>
+                                </li>
+                                <li>
+                                    <h2><a href="">D-3 Statistika</a></h2>
+                                </li>
+                                <li>
+                                    <h2><a href="">D-3 Teknik Informatika</a></h2>
+                                </li>
+                            </ul>
                             <button class="btn btn-primary" data-dismiss="modal">
                                 <i class="fas fa-times fa-fw"></i>
                                 Close Window
