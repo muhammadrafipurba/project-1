@@ -11,18 +11,20 @@
         <!-- Portfolio Grid Items-->
         <div class="row">
             <!-- Portfolio Item 1-->
+            
             <div class="col-md-6 col-lg-6 mb-5">
+                <a href='matematika.php'>
                 <div class="portfolio-item mx-auto">
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                        <div class="portfolio-item-caption-content text-center text-white"> <a href='matematika.php'>Matematika</a> 
+                        <div class="portfolio-item-caption-content text-center text-white"> Matematika
                             <!-- <i class="fas fa-plus fa-3x"></i> --> </div>
                     </div>
                     <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="" /> 
 
                 </div>
                 <h2 style="text-align: center;"><span style="color: #008000;">Departemen Matematika</span></h2>
+                </a>
             </div>
-
             <!-- Portfolio Item 2-->
             <div class="col-md-6 col-lg-6 mb-5">
                 <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
