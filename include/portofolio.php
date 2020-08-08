@@ -16,7 +16,7 @@
                 <a href='matematika.php'>
                 <div class="portfolio-item mx-auto">
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                        <div class="portfolio-item-caption-content text-center text-white"> Matematika
+                        <div class="portfolio-item-caption-content text-center text-white">Matematika
                             <!-- <i class="fas fa-plus fa-3x"></i> --> </div>
                     </div>
                     <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="" /> 
@@ -27,33 +27,39 @@
             </div>
             <!-- Portfolio Item 2-->
             <div class="col-md-6 col-lg-6 mb-5">
+                <a href='fisika.php'>
                 <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal2">
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                        <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                        <div class="portfolio-item-caption-content text-center text-white">Fisika</div>
                     </div>
                     <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="" />
                 </div>
                  <h2 style="text-align: center;"><span style="color: #008000;">Departemen Fisika</span></h2>
+             </a>
             </div>
             <!-- Portfolio Item 3-->
             <div class="col-md-6 col-lg-6 mb-5">
+                 <a href='kimia.php'>
                 <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal3">
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                        <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                        <div class="portfolio-item-caption-content text-center text-white">Kimia</div>
                     </div>
                     <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="" />
                 </div>
                  <h2 style="text-align: center;"><span style="color: #008000;">Departemen Kimia</span></h2>
+             </a>
             </div>
             <!-- Portfolio Item 4-->
             <div class="col-md-6 col-lg-6 mb-5 mb-lg-0">
+                 <a href='biologi.php'>
                 <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal4">
                     <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                        <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                        <div class="portfolio-item-caption-content text-center text-white">Biologi</div>
                     </div>
                     <img class="img-fluid" src="assets/img/portfolio/game.png" alt="" />
                 </div>
                  <h2 style="text-align: center;"><span style="color: #008000;">Departemen Biologi</span></h2>
+             </a>
             </div>
             <!-- Portfolio Item 5-->
  <!--
