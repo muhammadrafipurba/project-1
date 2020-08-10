@@ -22,7 +22,7 @@
                 <h4 class="text-uppercase mb-4">Tentang Tim</h4>
                 <p class="lead mb-0">
                     Sistem Informasi MIPA merupakan web yang didesain oleh<br>
-                    <a href="http://math-aps.com">Team</a>
+                    <a href="http://math-aps.com">Math-aps.team</a>
                     .
                 </p>
             </div>
