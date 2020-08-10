@@ -21,11 +21,10 @@
                             </div>
                         </div>
                         <center>
-                            <img class="img-fluid w-50" src="assets/img/beranda/USU.png" alt="" />
+                            <img class="img-fluid" src="assets/img/beranda/matematika.png" alt="" />
                         </center>
-
                     </div>
-                    <h2 style="text-align: center;"><span style="color: #008000;">Departemen Matematika</span></h2>
+                    <h2 style="text-align: center;" class="mt-3"><span style="color: #008000;">Departemen Matematika</span></h2>
                 </a>
             </div>
             <!-- Portfolio Item 2-->
@@ -36,10 +35,10 @@
                             <div class="portfolio-item-caption-content text-center text-white">Fisika</div>
                         </div>
                         <center>
-                            <img class="img-fluid w-50" src="assets/img/beranda/USU.png" alt="" />
+                            <img class="img-fluid" src="assets/img/beranda/fisika.png" alt="" />
                         </center>
                     </div>
-                    <h2 style="text-align: center;"><span style="color: #008000;">Departemen Fisika</span></h2>
+                    <h2 style="text-align: center;" class="mt-3"><span style="color: #008000;">Departemen Fisika</span></h2>
                 </a>
             </div>
             <!-- Portfolio Item 3-->
@@ -50,10 +49,10 @@
                             <div class="portfolio-item-caption-content text-center text-white">Kimia</div>
                         </div>
                         <center>
-                            <img class="img-fluid w-50" src="assets/img/beranda/USU.png" alt="" />
+                            <img class="img-fluid" src="assets/img/beranda/kimia.png" alt="" />
                         </center>
                     </div>
-                    <h2 style="text-align: center;"><span style="color: #008000;">Departemen Kimia</span></h2>
+                    <h2 style="text-align: center;" class="mt-3"><span style="color: #008000;">Departemen Kimia</span></h2>
                 </a>
             </div>
             <!-- Portfolio Item 4-->
@@ -64,10 +63,10 @@
                             <div class="portfolio-item-caption-content text-center text-white">Biologi</div>
                         </div>
                         <center>
-                            <img class="img-fluid w-50" src="assets/img/beranda/USU.png" alt="" />
+                            <img class="img-fluid" src="assets/img/beranda/biologi.png" alt="" />
                         </center>
                     </div>
-                    <h2 style="text-align: center;"><span style="color: #008000;">Departemen Biologi</span></h2>
+                    <h2 style="text-align: center;" class="mt-3"><span style="color: #008000;">Departemen Biologi</span></h2>
                 </a>
             </div>
             <!-- Portfolio Item 5-->
