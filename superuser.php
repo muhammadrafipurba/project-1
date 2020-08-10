@@ -15,6 +15,7 @@
 
   <!-- Bootstrap core CSS -->
   <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="assets/resources/plugins/fontawesome-free/css/all.min.css">
 
   <style>
     .bd-placeholder-img {
@@ -45,7 +46,9 @@
     <label for="inputPassword" class="sr-only">Password</label>
     <input type="password" id="inputPassword" class="form-control mb-3" placeholder="Password" required>
     <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
-    <p class="mt-5 mb-3 text-white">&copy; 2017-2020</p>
+    <br>
+    <p class="text-right mr-3"><a href="index.php"><i class="fas fa-long-arrow-alt-left"></i> kembali</a></p>
+    <p class="mt-5 mb-3 text-dark">&copy; 2017-2020</p>
   </form>
 </body>
 
